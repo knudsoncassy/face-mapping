@@ -1,0 +1,9 @@
+mouth_corner_left,622,258
+mouth_corner_right,704,262
+lip_top_center,667,242
+lip_bottom_center,667,251
+jaw_left,558,274
+jaw_right,760,285
+nose_tip,671,205
+eye_corner_left,582,154
+eye_corner_right,752,159
